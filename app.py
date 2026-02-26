@@ -8,5 +8,6 @@ st.image(image,caption="snoopy-joe-cool-e1725621027692.jpg")
 
 texto=st.text_input("Ingresa texto","texto inicial")
 st.write("El texto que has escrito es",texto)
-if st.button("Presiona el boton"):
-   st.write("Has presionado")
+if st.button("Presiona el botón"):
+   st.write("¡Has presionado!")
+   
